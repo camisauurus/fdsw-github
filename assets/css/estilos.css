@@ -20,6 +20,10 @@ body {
   background-position: center;
 }
 
+.bg-section-custom {
+  background-color: #6879D0;
+}
+
 /* Contacto */
 
 #Contacto form label {
